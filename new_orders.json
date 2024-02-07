@@ -1,0 +1,14 @@
+[
+    {
+        "bookId": 3,
+        "customerName": "user1"
+    },
+    {
+        "bookId": 6,
+        "customerName": "user2"
+    },
+    {
+        "bookId": 1,
+        "customerName": "user5"
+    }
+]
