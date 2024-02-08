@@ -22,4 +22,5 @@ jobs:
       run: npm install -g newman
 
     - name: Run Postman Tests
-      run: newman run "Book collection.postman_collection.json" --iteration-data "new_orders.json"
+      run: newman run "Book collection.postman_collection.json" --iteration-data new_orders.json --verbose
+
